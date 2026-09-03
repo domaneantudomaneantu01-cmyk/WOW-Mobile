@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "WOW",
+    "slug": "wow-mobility",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "ro.wow.mobility",
+      "versionCode": 1,
+      "permissions": ["ACCESS_COARSE_LOCATION", "ACCESS_FINE_LOCATION"]
+    },
+    "plugins": [
+      ["expo-location", {"locationWhenInUsePermission": "WOW foloseste locatia pentru a afisa masinile disponibile in apropiere si punctul de preluare."}]
+    ]
+  }
+}
