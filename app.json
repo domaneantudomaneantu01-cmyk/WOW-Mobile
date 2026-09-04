@@ -12,7 +12,8 @@
     },
     "plugins": [
       ["expo-location", {"locationWhenInUsePermission": "WOW foloseste locatia pentru a afisa masinile disponibile in apropiere si punctul de preluare."}]
-    ]
-  }
+    ], 
+  "extra":{"eas":{"projectId":"50d2d691-3b20-4129-8e84-35bbc947248c"}}
  
-}
+}}
+
