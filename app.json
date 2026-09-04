@@ -14,4 +14,5 @@
       ["expo-location", {"locationWhenInUsePermission": "WOW foloseste locatia pentru a afisa masinile disponibile in apropiere si punctul de preluare."}]
     ]
   }
+ 
 }
